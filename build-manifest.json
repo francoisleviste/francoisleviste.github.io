@@ -1,0 +1,82 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/E-OrnFAKMBOPvptp18dhv/_buildManifest.js",
+    "static/E-OrnFAKMBOPvptp18dhv/_ssgManifest.js",
+    "static/E-OrnFAKMBOPvptp18dhv/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/107-5502d93290414c27.js",
+      "static/chunks/pages/index-3e841738d3f3073e.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/107-5502d93290414c27.js",
+      "static/chunks/pages/404-6f4a2c07f04f158a.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/css/ef46db3751d8e999.css",
+      "static/chunks/pages/_app-7b405fe7b6055df2.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/pages/_error-2280fa386d040b66.js"
+    ],
+    "/bio": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/107-5502d93290414c27.js",
+      "static/chunks/pages/bio-c6004e576d578e01.js"
+    ],
+    "/cinema": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/107-5502d93290414c27.js",
+      "static/chunks/pages/cinema-e0bde01a1e1004bc.js"
+    ],
+    "/experiencesartistiques": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/pages/experiencesartistiques-0c85b90453f09ff2.js"
+    ],
+    "/figuration": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/pages/figuration-9cac0ef7a6d16abf.js"
+    ],
+    "/photo": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/107-5502d93290414c27.js",
+      "static/chunks/pages/photo-52b8a5dd381b6f24.js"
+    ],
+    "/theatre": [
+      "static/chunks/webpack-514908bffb652963.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-66dc39025408cecd.js",
+      "static/chunks/107-5502d93290414c27.js",
+      "static/chunks/pages/theatre-ada040c65e9dcf2d.js"
+    ]
+  },
+  "ampFirstPages": []
+}
